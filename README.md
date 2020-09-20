@@ -1,4 +1,5 @@
 # Loan Prediction using Python
+Used logistic regression to predict loan 
 
 ## ABOUT ME:
 Hi. I am Murugesh MANTHIRAMOORTHI, a self-taught data-scientist. 
